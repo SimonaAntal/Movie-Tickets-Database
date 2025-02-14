@@ -7,7 +7,7 @@ This project implements a relational database for managing the movie ticket purc
 * Relationships: 1:M, 1:1
 
 <p align="center">
-  <img src="Diagrama/Diagrama.png">
+  <img src="Diagram/ER_Diagram.png">
 </p>
 
 ### Integrity Constraints
